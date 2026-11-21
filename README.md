@@ -1,0 +1,1 @@
+Hands-on Agentic AI projects built entirely using the Agno framework, exploring AI agents, memory management, tool integration, conversational AI, YouTube video analysis, and intelligent automation using Python and Groq.
